@@ -6,4 +6,4 @@ The application provides an Admin Panel where administrators can manage food cat
 
 This project is deployed on an Apache Tomcat server, and its modular structure ensures maintainability and scalability. The database schema is designed to handle large datasets efficiently, with proper relationships and indexing to optimize query performance.
 
-Future enhancements include integrating a payment gateway, implementing user reviews and ratings for food items, and optimizing backend processes for faster response times. This application serves as an excellent example of how modern web technologies can be combined to deliver a practical and user-friendly solution for online food ordering systems.
+It  include integrating a payment gateway, implementing user reviews and ratings for food items, and optimizing backend processes for faster response times. This application serves as an excellent example of how modern web technologies can be combined to deliver a practical and user-friendly solution for online food ordering systems.

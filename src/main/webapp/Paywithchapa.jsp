@@ -225,7 +225,7 @@
   </form>
 
   <form id="secondForm"  method="POST" action="https://api.chapa.co/v1/hosted/pay" >
-    <input type="hidden" name="public_key" value="CHAPUBK_TEST-3wpvI381lS5aHfD5l18OwYCURFtHflaT" />
+    <input type="hidden" name="public_key" value="CHAPUBK_TEST-3wpvI381lS5aHfD5l4512YCURFtHflaT" />
     <input type="hidden" name="tx_ref" value="negade-tx-12345678sss9" />
     <input type="hidden" name="amount" value="50" />
     <input type="hidden" name="currency" value="ETB" />

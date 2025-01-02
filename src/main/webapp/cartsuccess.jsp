@@ -161,6 +161,7 @@
       <p>Your reservation has been successfully received.</br> The total sum of Price of all your ordered items is: <%= request.getParameter("sum") %></p>
       <br/><br/>
       <center>
+      
      			 <button class="go-back-button">
      			 <a href="./bootstrap-restaurant-template/cart.jsp" >
      			 GO BACK TO FIX

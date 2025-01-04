@@ -14,7 +14,7 @@
         color: #88B04B;
         font-family: "Nunito Sans", "Helvetica Neue", sans-serif;
         font-weight: 900;
-        font-size: 40px;
+        font-size: 42px;
         margin-bottom: 10px;
       }
       p {

@@ -74,7 +74,7 @@
         <i class="checkmark">✓</i>
       </div>
       <h1>Success</h1> 
-      <p>The Chief has been Deleted.<br/>Thanks For using the platform!</p>
+      <p>The Chef has been Deleted.<br/>Thanks For using the platform!</p>
       <br/><br/>
       <center>
      			 <button class="go-back-button">
